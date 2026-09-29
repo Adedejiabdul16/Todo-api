@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+todos.db
+todos_old.db
